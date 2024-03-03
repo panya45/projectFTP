@@ -1,0 +1,38 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f68d42;
+    font-size: 25px;
+}
+
+table {
+    width: 95%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 2px solid #000000;
+    font-size: 40px;
+    
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+}
+
+form {
+    margin-top: 10px;
+}
+
+input {
+    border: none;
+    height: 40px;
+    width: 200px;
+    font-size: 1rem;
+    
+
+}
